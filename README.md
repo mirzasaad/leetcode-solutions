@@ -20,14 +20,20 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/208.trie.py)||Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/208.trie.py)|||Medium|
 
 
 ## Dynamic Programming
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|70|[Climbing Stairs)](https://leetcode.com/problems/climbing-stairs/)|[Python](70.climbing_stairs.py)||Easy|
+|70|[Climbing Stairs)](https://leetcode.com/problems/climbing-stairs/)|[Python](70.climbing_stairs.py)|||Easy|
 
+
+## Tree
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|104|[Maximum Depth of Binary Tree)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](104.bst_max_depth.py)|O(n)|O(n)|Easy|
 
 
