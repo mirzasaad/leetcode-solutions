@@ -37,3 +37,10 @@
 |104|[Maximum Depth of Binary Tree)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](104.bst_max_depth.py)|O(n)|O(n)|Easy|
 
 
+## Tree
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|50|[Pow(x, n))](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](50.powxn.py)|O(n)||Medium|
+
+
