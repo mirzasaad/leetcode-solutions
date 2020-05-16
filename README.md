@@ -16,10 +16,18 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/215.maxSubarraySumCircular.py)|O(n)||Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/509.fibonacci.py)|O(n)|O(N)|Easy|
 
-
- 
 ## Design
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/208.trie)||Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/208.trie.py)||Medium|
+
+
+## Dynamic Programming
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|70|[Climbing Stairs)](https://leetcode.com/problems/climbing-stairs/)|[Python](70.climbing_stairs.py)||Easy|
+
+
+
