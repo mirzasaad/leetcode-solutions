@@ -12,7 +12,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/119.pascal.II.py)|O(n)|O(k)|Easy|
-
+|918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/918.maxSubarraySumCircular.py)|O(2n)||Medium|
 
 ## Design
 
