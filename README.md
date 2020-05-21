@@ -36,7 +36,6 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 
 
-
 ## Recusion
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -44,3 +43,8 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/recursion/50.powxn.py)|O(n)||Medium|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/recursion/779.kthgrammer.py)|O(lgn)||Medium|
 
+## String
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/438.findAnagrams.py)|O(n)||Medium|
