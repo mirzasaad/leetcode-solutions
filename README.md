@@ -7,6 +7,9 @@
 |700|[BST Search](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/700.bst_search.py)|nlogn ||Easy|recusion, dfs|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/104.bst_max_depth.py)|O(n)|O(n)|Easy|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/95.generateNBSTS.py)|O(n^2)|O(n)|Medium|
+
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/230.kthsmallestBST.py)|O(n)|O(n)|Medium|
+
 ## Array
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
