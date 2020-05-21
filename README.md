@@ -47,4 +47,5 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/438.findAnagrams.py)|O(n)||Medium|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/438.findAnagrams.py)|O(n)||Medium|Sliding Window|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/76.minimum_window_sustring.py)|O(n)||Hard|Sliding Window|
