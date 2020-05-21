@@ -29,7 +29,9 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|70|[Climbing Stairs)](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dp/70.climbing_stairs.py)|||Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dp/70.climbing_stairs.py)|||Easy|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dp/1143.longestCommonSubsequence.py)|||Medium|
+
 
 
 ## Tree
