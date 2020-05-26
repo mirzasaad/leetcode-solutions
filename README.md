@@ -65,3 +65,10 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O(N)||Hard|Monotonic|
+
+
+## Stack
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/496.nextGreaterElement.py)|O(N)|O(N)|Easy|Monotonic|
