@@ -49,11 +49,19 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/recursion/50.powxn.py)|O(n)||Medium|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/recursion/779.kthgrammer.py)|O(lgn)||Medium|
 
-## String
+## Sliding Window
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/438.findAnagrams.py)|O(n)||Medium|Sliding Window|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/76.minimum_window_sustring.py)|O(n)||Hard|Sliding Window|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/3.lengthOfLongestSubstring.py)|O(n)||Medium|Sliding Window|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/30.subStringConcatenationOfAllWords.py)|O(nk)||Hard|Sliding Window|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/438.findAnagrams.py)|O(n)||Medium|Sliding Window|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/76.minimum_window_sustring.py)|O(n)||Hard|Sliding Window|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/3.lengthOfLongestSubstring.py)|O(n)||Medium|Sliding Window|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/30.subStringConcatenationOfAllWords.py)|O(nk)||Hard|Sliding Window|
+|424|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/424.characterReplacement.py)|O(n)||Medium|Sliding Window|
+
+
+## Queue
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O(N)||Hard|Monotonic|
