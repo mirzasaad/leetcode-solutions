@@ -74,3 +74,4 @@
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/496.nextGreaterElement.py)|O(N)|O(N)|Easy|Monotonic|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/503.nextGreaterElements.py)|O(N)|O(N)|Medium|Monotonic|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/556.nextGreaterElementsIII.py)|O(N)|O(N)|Medium|Monotonic|
+|452|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/452.132Pattern.py)|O(N)|O(N)|Medium||
