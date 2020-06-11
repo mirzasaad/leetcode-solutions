@@ -75,3 +75,10 @@
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/503.nextGreaterElements.py)|O(N)|O(N)|Medium|Monotonic|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/556.nextGreaterElementsIII.py)|O(N)|O(N)|Medium|Monotonic|
 |452|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/452.132Pattern.py)|O(N)|O(N)|Medium||
+
+
+## Binary Search
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
