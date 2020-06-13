@@ -76,7 +76,7 @@
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/556.nextGreaterElementsIII.py)|O(N)|O(N)|Medium|Monotonic|
 |452|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/452.132Pattern.py)|O(N)|O(N)|Medium||
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.stackPlanner.py)|O(N)|O(N)|Medium||
-
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/84.largestRectangleArea.py)|O(N)|O(N)|Hard||
 
 ## Binary Search
 
