@@ -25,7 +25,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/design/208.trie.py)|||Medium|
-
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/design/308.RandomizedSet.py)|||Medium|
 
 ## Dynamic Programming
 
