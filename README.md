@@ -78,6 +78,8 @@
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.stackPlanner.py)|O(N)|O(N)|Medium||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/84.largestRectangleArea.py)|O(N)|O(N)|Hard||
 
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.StockSpanner.py)|O(N)|O(N)|Medium||
+|907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/907.sumSubarrayMins.py)|O(N)|O(N)|Medium||
 ## Binary Search
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
