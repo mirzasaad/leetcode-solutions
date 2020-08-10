@@ -58,7 +58,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/3.lengthOfLongestSubstring.py)|O(n)||Medium|Sliding Window|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/30.subStringConcatenationOfAllWords.py)|O(nk)||Hard|Sliding Window|
 |424|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/424.characterReplacement.py)|O(n)||Medium|Sliding Window|
-
+|904|[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/904.totalFruit.py)|O(n)||Medium|Sliding Window|
 
 ## Queue
 
@@ -77,9 +77,9 @@
 |452|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/452.132Pattern.py)|O(N)|O(N)|Medium||
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.stackPlanner.py)|O(N)|O(N)|Medium||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/84.largestRectangleArea.py)|O(N)|O(N)|Hard||
-
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.StockSpanner.py)|O(N)|O(N)|Medium||
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/907.sumSubarrayMins.py)|O(N)|O(N)|Medium||
+
 ## Binary Search
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
