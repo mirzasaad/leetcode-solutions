@@ -58,7 +58,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/3.lengthOfLongestSubstring.py)|O(n)||Medium|Sliding Window|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/30.subStringConcatenationOfAllWords.py)|O(nk)||Hard|Sliding Window|
 |424|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/424.characterReplacement.py)|O(n)||Medium|Sliding Window|
-|904|[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/904.totalFruit.py)|O(n)||Medium|Sliding Window|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/904.totalFruit.py)|O(n)||Medium|Sliding Window|
 
 ## Queue
 
@@ -85,3 +85,12 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
+
+
+## Depth First Search + Backtracking
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
+
+|17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/19.letterCombinations.py)|N!||Medium|DFS|
