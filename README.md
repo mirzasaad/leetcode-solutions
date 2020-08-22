@@ -17,14 +17,18 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|700|[BST Search](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/700.bst_search.py)|nlogn ||Easy|recusion, dfs|
+
+
+
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/104.bst_max_depth.py)|O(n)|O(n)|Easy|
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/95.generateNBSTS.py)|O(n^2)|O(n)|Medium|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/230.kthsmallestBST.py)|O(n)|O(n)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/257.binaryTreePaths.py)|O(n)|O(n)|Easy|
+|700|[BST Search](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/700.bst_search.py)|nlogn ||Easy|recusion, dfs|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/95.generateNBSTS.py)|O(n^2)|O(n)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/98.isValidBST.py)|O(n)|O(n)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/230.kthsmallestBST.py)|O(n)|O(n)|Medium|
 |236|[Binary Tree Paths](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/236.lowestCommonAncestor.py)|O(n)|O(n)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/297.Codec.py)|O(n)|O(n)|Hard|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/98.isValidBST.py)|O(n)|O(n)|Medium|
+
 
 <br/>
 <div align="right">
