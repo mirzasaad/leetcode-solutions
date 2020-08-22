@@ -17,9 +17,6 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
-
-
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/104.bst_max_depth.py)|O(n)|O(n)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/257.binaryTreePaths.py)|O(n)|O(n)|Easy|
 |700|[BST Search](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/700.bst_search.py)|nlogn ||Easy|recusion, dfs|
@@ -99,12 +96,10 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/3.lengthOfLongestSubstring.py)|O(n)||Medium|Sliding Window|
 |424|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/424.characterReplacement.py)|O(n)||Medium|Sliding Window|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/438.findAnagrams.py)|O(n)||Medium|Sliding Window|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/904.totalFruit.py)|O(n)||Medium|Sliding Window|
-
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/30.subStringConcatenationOfAllWords.py)|O(nk)||Hard|
 Sliding Window|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/76.minimum_window_sustring.py)|O(n)||Hard|Sliding Window|
@@ -130,14 +125,12 @@ Sliding Window|
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
 |452|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/452.132Pattern.py)|O(N)|O(N)|Medium||
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/496.nextGreaterElement.py)|O(N)|O(N)|Easy|Monotonic|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/503.nextGreaterElements.py)|O(N)|O(N)|Medium|Monotonic|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/556.nextGreaterElementsIII.py)|O(N)|O(N)|Medium|Monotonic|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.StockSpanner.py)|O(N)|O(N)|Medium||
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/907.sumSubarrayMins.py)|O(N)|O(N)|Medium||
-
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/84.largestRectangleArea.py)|O(N)|O(N)|Hard||
 
 <br/>
