@@ -1,3 +1,31 @@
+## Algorithms
+
+* [Bit Manipulation](https://github.com/kamyu104/LeetCode-Solutions#bit-manipulation)
+* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
+* [String](https://github.com/kamyu104/LeetCode-Solutions#string)
+* [Linked List](https://github.com/kamyu104/LeetCode-Solutions#linked-list)
+* [Stack](https://github.com/kamyu104/LeetCode-Solutions#stack)
+* [Queue](https://github.com/kamyu104/LeetCode-Solutions#queue)
+* [Binary Heap](https://github.com/kamyu104/LeetCode-Solutions#binary-heap)
+* [Tree](https://github.com/kamyu104/LeetCode-Solutions#tree)
+* [Hash Table](https://github.com/kamyu104/LeetCode-Solutions#hash-table)
+* [Math](https://github.com/kamyu104/LeetCode-Solutions#math)
+* [Two Pointers](https://github.com/kamyu104/LeetCode-Solutions#two-pointers)
+* [Sort](https://github.com/kamyu104/LeetCode-Solutions#sort)
+* [Recursion](https://github.com/kamyu104/LeetCode-Solutions#recursion)
+* [Binary Search](https://github.com/kamyu104/LeetCode-Solutions#binary-search)
+* [Binary Search Tree](https://github.com/kamyu104/LeetCode-Solutions#binary-search-tree)
+* [Breadth-First Search](https://github.com/kamyu104/LeetCode-Solutions#breadth-first-search)
+* [Depth-First Search](https://github.com/kamyu104/LeetCode-Solutions#depth-first-search)
+* [Backtracking](https://github.com/kamyu104/LeetCode-Solutions#backtracking)
+* [Dynamic Programming](https://github.com/kamyu104/LeetCode-Solutions#dynamic-programming)
+* [Greedy](https://github.com/kamyu104/LeetCode-Solutions#greedy)
+* [Graph](https://github.com/kamyu104/LeetCode-Solutions#graph)
+* [Geometry](https://github.com/kamyu104/LeetCode-Solutions#geometry)
+* [Simulation](https://github.com/kamyu104/LeetCode-Solutions#simulation)
+* [Design](https://github.com/kamyu104/LeetCode-Solutions#design)
+* [Concurrency](https://github.com/kamyu104/LeetCode-Solutions#concurrency)
+
 # leetcode-solutions
 
 ## Binary Search Tree
@@ -13,6 +41,12 @@
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/297.Codec.py)|O(n)|O(n)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/98.isValidBST.py)|O(n)|O(n)|Medium|
 
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Array
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -24,12 +58,24 @@
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/560.subarraySum.py)|O(N)|O(N)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/209.minSubArrayLen.py)||O(N)|Medium|
  
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Design
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/design/208.trie.py)|||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/design/308.RandomizedSet.py)|||Medium|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Dynamic Programming
 
@@ -40,11 +86,11 @@
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dp/1277.countSquares.py)|||Medium|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dp/718.findLength.py)|||Medium|
 
-## Tree
-
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Recusion
 
@@ -52,6 +98,12 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |50|[Pow(x, n)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/recursion/50.powxn.py)|O(n)||Medium|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/recursion/779.kthgrammer.py)|O(lgn)||Medium|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Sliding Window
 
@@ -64,12 +116,23 @@
 |424|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/424.characterReplacement.py)|O(n)||Medium|Sliding Window|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/904.totalFruit.py)|O(n)||Medium|Sliding Window|
 
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Queue
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O(N)||Hard|Monotonic|
 
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Stack
 
@@ -84,12 +147,23 @@
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/901.StockSpanner.py)|O(N)|O(N)|Medium||
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/stack/907.sumSubarrayMins.py)|O(N)|O(N)|Medium||
 
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Binary Search
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
 
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Depth First Search + Backtracking
 
