@@ -143,8 +143,8 @@ Sliding Window|
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
-
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/binary_search/35.searchInsert.py)|O log(N)||Easy|Binary Srarch|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/binary_search/33.search.py)|O log(N)||Medium|Binary Srarch|
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -155,5 +155,4 @@ Sliding Window|
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
-|17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/19.letterCombinations.py)|N!||Medium|DFS|Backtracing|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/17.letterCombinations.py)|N!||Medium|DFS|Backtracing|
