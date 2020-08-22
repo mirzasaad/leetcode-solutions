@@ -1,30 +1,15 @@
 ## Algorithms
 
-* [Bit Manipulation](https://github.com/kamyu104/LeetCode-Solutions#bit-manipulation)
-* [Array](https://github.com/kamyu104/LeetCode-Solutions#array)
-* [String](https://github.com/kamyu104/LeetCode-Solutions#string)
-* [Linked List](https://github.com/kamyu104/LeetCode-Solutions#linked-list)
-* [Stack](https://github.com/kamyu104/LeetCode-Solutions#stack)
-* [Queue](https://github.com/kamyu104/LeetCode-Solutions#queue)
-* [Binary Heap](https://github.com/kamyu104/LeetCode-Solutions#binary-heap)
-* [Tree](https://github.com/kamyu104/LeetCode-Solutions#tree)
-* [Hash Table](https://github.com/kamyu104/LeetCode-Solutions#hash-table)
-* [Math](https://github.com/kamyu104/LeetCode-Solutions#math)
-* [Two Pointers](https://github.com/kamyu104/LeetCode-Solutions#two-pointers)
-* [Sort](https://github.com/kamyu104/LeetCode-Solutions#sort)
-* [Recursion](https://github.com/kamyu104/LeetCode-Solutions#recursion)
-* [Binary Search](https://github.com/kamyu104/LeetCode-Solutions#binary-search)
-* [Binary Search Tree](https://github.com/kamyu104/LeetCode-Solutions#binary-search-tree)
-* [Breadth-First Search](https://github.com/kamyu104/LeetCode-Solutions#breadth-first-search)
-* [Depth-First Search](https://github.com/kamyu104/LeetCode-Solutions#depth-first-search)
-* [Backtracking](https://github.com/kamyu104/LeetCode-Solutions#backtracking)
-* [Dynamic Programming](https://github.com/kamyu104/LeetCode-Solutions#dynamic-programming)
-* [Greedy](https://github.com/kamyu104/LeetCode-Solutions#greedy)
-* [Graph](https://github.com/kamyu104/LeetCode-Solutions#graph)
-* [Geometry](https://github.com/kamyu104/LeetCode-Solutions#geometry)
-* [Simulation](https://github.com/kamyu104/LeetCode-Solutions#simulation)
-* [Design](https://github.com/kamyu104/LeetCode-Solutions#design)
-* [Concurrency](https://github.com/kamyu104/LeetCode-Solutions#concurrency)
+* [Binary Search Tree](https://github.com/mirzasaad/leetcode-solutions#binary-search-tree)
+* [Array](https://github.com/mirzasaad/leetcode-solutions#array)
+* [Design](https://github.com/mirzasaad/leetcode-solutions#design)
+* [Dynamic Programming](https://github.com/mirzasaad/leetcode-solutions#dynamic-programming)
+* [Recursion](https://github.com/mirzasaad/leetcode-solutions#recursion)
+* [Sliding Window](https://github.com/mirzasaad/leetcode-solutions#sliding-window)
+* [Queue](https://github.com/mirzasaad/leetcode-solutions#queue)
+* [Stack](https://github.com/mirzasaad/leetcode-solutions#stack)
+* [Binary Search](https://github.com/mirzasaad/leetcode-solutions#binary-search)
+* [Depth First Search + Backtracking](https://github.com/mirzasaad/leetcode-solutions#depth-first-search--backtracking)
 
 # leetcode-solutions
 
@@ -170,4 +155,4 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/queue/862.shortestSubarray.py)|O log(N)||Easy|Binary Srarch|
-|17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/19.letterCombinations.py)|N!||Medium|DFS|
+|17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/19.letterCombinations.py)|N!||Medium|DFS|Backtracing|
