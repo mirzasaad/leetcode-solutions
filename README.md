@@ -9,6 +9,7 @@
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/95.generateNBSTS.py)|O(n^2)|O(n)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/230.kthsmallestBST.py)|O(n)|O(n)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/257.binaryTreePaths.py)|O(n)|O(n)|Easy|
+|236|[Binary Tree Paths](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/236.lowestCommonAncestor.py)|O(n)|O(n)|Medium|
 
 ## Array
 
