@@ -24,6 +24,7 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/98.isValidBST.py)|O(n)|O(n)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/230.kthsmallestBST.py)|O(n)|O(n)|Medium|
 |236|[Binary Tree Paths](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/236.lowestCommonAncestor.py)|O(n)|O(n)|Medium|
+|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/988.smallestFromLeaf.py)|O(n)|O(n)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/297.Codec.py)|O(n)|O(n)|Hard|
 
 
