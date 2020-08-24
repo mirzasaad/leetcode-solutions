@@ -18,6 +18,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/104.bst_max_depth.py)|O(n)|O(n)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/111.minDepth.py)|O(n)|O(n)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/257.binaryTreePaths.py)|O(n)|O(n)|Easy|
 |700|[BST Search](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/700.bst_search.py)|nlogn ||Easy|recusion, dfs|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/95.generateNBSTS.py)|O(n^2)|O(n)|Medium|
