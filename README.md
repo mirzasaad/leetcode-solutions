@@ -160,3 +160,15 @@ Sliding Window|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/39.combinationSum.py)|2N||Medium|DFS|Backtracing|
 |40|[Combination Sum ||](https://leetcode.com/problems/combination-sum-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/40.combinationSum2.py)|2N||Medium|DFS|Backtracing|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/139.wordBreak.py)|N^2||Medium|DFS|Backtracing|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Breadth first Search
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/102.levelOrder.py)|O (N)|O (N)|Medium||

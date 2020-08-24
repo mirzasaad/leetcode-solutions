@@ -31,3 +31,18 @@ class Solution:
             return ok
         memo = {}
         return dfs(0, memo)
+    
+    def wordBreakSolutionDP(self, s: str, wordDict: List[str]) -> bool:
+        N = len(s)
+        dp = [False] * (N + 1)
+
+        dp[0] = True
+
+        for i in range(1, N + 1):
+            for j in range(0, i):
+                substring = s[j:i]
+                if dp[j] and substring in wordDict:
+                    dp[i] = True
+                    break
+        
+        return dp[N]
