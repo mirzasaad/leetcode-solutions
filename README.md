@@ -172,3 +172,4 @@ Sliding Window|
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/102.levelOrder.py)|O (N)|O (N)|Medium||
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/103.zigzagLevelOrder.py)|O (N)|O (N)|Medium||
