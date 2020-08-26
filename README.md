@@ -174,5 +174,6 @@ Sliding Window|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/102.levelOrder.py)|O (N)|O (N)|Medium||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/103.zigzagLevelOrder.py)|O (N)|O (N)|Medium||
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/127.ladderLength.py)|O (V + E)|O (V + E)|Medium|Bi Directional BFS|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/199.rightSideView.py)|O (N)|O (N)|Medium||
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/863.distanceK.py)|O (N)|O (N)|Medium||
