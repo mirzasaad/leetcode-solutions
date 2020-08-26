@@ -162,6 +162,7 @@ Sliding Window|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/39.combinationSum.py)|2N||Medium|DFS|Backtracing|
 |40|[Combination Sum ||](https://leetcode.com/problems/combination-sum-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/40.combinationSum2.py)|2N||Medium|DFS|Backtracing|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/139.wordBreak.py)|N^2||Medium|DFS|Backtracing|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/200.numIslands.py)|N^2||Medium|DFS||
 
 <br/>
 <div align="right">
