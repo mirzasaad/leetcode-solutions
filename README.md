@@ -17,6 +17,7 @@
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/26.removeDuplicates.py)|O(n)|O(n)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/104.bst_max_depth.py)|O(n)|O(n)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/111.minDepth.py)|O(n)|O(n)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/257.binaryTreePaths.py)|O(n)|O(n)|Easy|
@@ -163,7 +164,7 @@ Sliding Window|
 |40|[Combination Sum ||](https://leetcode.com/problems/combination-sum-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/40.combinationSum2.py)|2N||Medium|DFS|Backtracing|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/139.wordBreak.py)|N^2||Medium|DFS|Backtracing|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/200.numIslands.py)|N^2||Medium|DFS||
-
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/dfs/207.canFinish.py)|O (V+E)||Medium|DFS|Directed Graph|
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
