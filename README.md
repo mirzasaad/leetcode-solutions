@@ -180,3 +180,21 @@ Sliding Window|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/127.ladderLength.py)|O (V + E)|O (V + E)|Medium|Bi Directional BFS|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/199.rightSideView.py)|O (N)|O (N)|Medium||
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bfs/863.distanceK.py)|O (N)|O (N)|Medium||
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Linked List
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/876.middleNode.py)|O(n)|O(n)|Easy|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
