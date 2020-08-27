@@ -41,6 +41,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |1|[Two Sum](hhttps://leetcode.com/problems/two-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/array/master/1.twoSum)|O(n)|O(n)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/array/master/167.twoSum)||O(n)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/array/master/119.pascal.II.py)|O(n)|O(k)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/509.fibonacci.py)|O(N)|O(N)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/209.minSubArrayLen.py)||O(N)|Medium|
