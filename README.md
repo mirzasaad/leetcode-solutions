@@ -193,10 +193,16 @@ Sliding Window|
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/bst/876.middleNode.py)|O(n)|O(n)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/linked_list/876.middleNode.py)|O(n)|O(n)|Easy|
 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## String
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/string/125.isPalindrome.py)|O(n)|O(n)|Easy|
