@@ -108,6 +108,7 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/30.subStringConcatenationOfAllWords.py)|O(nk)||Hard|
 Sliding Window|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/76.minimum_window_sustring.py)|O(n)||Hard|Sliding Window|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/sliding_window/84.largestRectangleArea.py)|O(n)||Hard|two pointers|
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
