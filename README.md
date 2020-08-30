@@ -46,6 +46,7 @@
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/509.fibonacci.py)|O(N)|O(N)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/209.minSubArrayLen.py)||O(N)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/215.maxSubarraySumCircular.py)|O(n)||Medium|
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/523.checkSubarraySum.py)|O(N)|O(N)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/560.subarraySum.py)|O(N)|O(N)|Medium|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/array/maximum-sum-circular-subarray/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/array/918.maxSubarraySumCircular.py)|O(2n)||Medium|
 
@@ -218,3 +219,15 @@ Sliding Window|
 
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/two_pointers/84.largestRectangleArea.py)|O(n)||Hard|two pointers|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/two_pointers/42.trap.py)|O(n)||Hard|two pointers|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Priority Queue
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/973.kClosest.py)|||Medium|
