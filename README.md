@@ -231,3 +231,4 @@ Sliding Window|
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/973.kClosest.py)|||Medium|
+|973|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/23.mergeKLists.py)|||Hard|
