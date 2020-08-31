@@ -232,4 +232,5 @@ Sliding Window|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/215.findKthLargest.py)|||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/973.kClosest.py)|||Medium|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/703.KthLargest.py)|||Medium|
 |973|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/23.mergeKLists.py)|||Hard|
