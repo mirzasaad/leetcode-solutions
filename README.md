@@ -235,3 +235,13 @@ Sliding Window|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/973.kClosest.py)|||Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/703.KthLargest.py)|||Medium|
 |973|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/23.mergeKLists.py)|||Hard|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Hash Table
+
+|347|[Top K Frequent Elements](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/hash_table/347.topKFrequent.py)|O(n)|O(n)|Medium|Heaps & Hash|
