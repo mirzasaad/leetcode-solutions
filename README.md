@@ -235,6 +235,7 @@ Sliding Window|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/973.kClosest.py)|||Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/703.KthLargest.py)|||Medium|
 |973|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/23.mergeKLists.py)|||Hard|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](https://github.com/mirzasaad/leetcode-solutions/blob/master/heap/295.MedianFinder.py)|||Hard|
 
 <br/>
 <div align="right">
